@@ -31,6 +31,7 @@
 ## 其他 <a href="#others" id="others"></a>
 
 * [合興發茶冰室（龙阳路店）](others/he-xing-fa-cha-bing-shi-long-yang-lu-dian.md)
+* [河南蒸面](others/he-nan-zheng-mian.md)
 * [小猪查理自助烤肉（孙桥店）](others/xiao-zhu-cha-li-zi-zhu-kao-rou-sun-qiao-dian.md)
 * [民间粮仓重庆菜（人广店）](others/min-jian-liang-cang-zhong-qing-cai-ren-guang-dian.md)
 * [喜月（绿地缤纷广场店）](others/xi-yue-lv-di-bin-fen-guang-chang-dian.md)
