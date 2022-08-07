@@ -1,5 +1,5 @@
 ---
-description: 川菜
+description: 川菜；多人聚餐
 ---
 
 # 先启半步颠小酒馆（长泰广场店）
