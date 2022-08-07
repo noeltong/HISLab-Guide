@@ -18,15 +18,16 @@
 * [七姑娘大刀凉皮（科苑路店）](two-star/qi-gu-niang-da-dao-liang-pi-ke-yuan-lu-dian.md)
 * [蔡记烤猪蹄](two-star/cai-ji-kao-zhu-ti.md)
 * [丰茂烤串（淮海路店）](two-star/feng-mao-kao-chuan-huai-hai-lu-dian.md)
+* [東盛炭烤自助料理（长泰广场店）](two-star/dong-sheng-tan-kao-zi-zhu-liao-li-chang-tai-guang-chang-dian.md)
+* [一绪に寿喜烧（长泰广场店）](two-star/ni.md)
 
 ## ★ <a href="#one-star" id="one-star"></a>
 
 * [泰煌鸡 上海白斩鸡·鸡汤面（孙建路店）](one-star/tai-huang-ji-shang-hai-bai-zhan-ji-ji-tang-mian-sun-jian-lu-dian.md)
 * [东北筋饼骨头王（科苑路店）](one-star/dong-bei-jin-bing-gu-tou-wang-ke-yuan-lu-dian.md)
 * [哇蛙牛功夫面渝都料理（龙阳广场店）](one-star/wa-wa-niu-gong-fu-mian-yu-du-liao-li-long-yang-guang-chang-dian.md)
-* [東盛炭烤自助料理（长泰广场店）](one-star/dong-sheng-tan-kao-zi-zhu-liao-li-chang-tai-guang-chang-dian.md)
-* [一绪に寿喜烧（长泰广场店）](one-star/ni.md)
 * [眉州东坡小酒馆（凯德晶萃店）](one-star/mei-zhou-dong-po-xiao-jiu-guan-kai-de-jing-cui-dian.md)
+* [喜月（绿地缤纷广场店）](one-star/xi-yue-lv-di-bin-fen-guang-chang-dian.md)
 
 ## 其他 <a href="#others" id="others"></a>
 
@@ -34,7 +35,6 @@
 * [河南蒸面](others/he-nan-zheng-mian.md)
 * [小猪查理自助烤肉（孙桥店）](others/xiao-zhu-cha-li-zi-zhu-kao-rou-sun-qiao-dian.md)
 * [民间粮仓重庆菜（人广店）](others/min-jian-liang-cang-zhong-qing-cai-ren-guang-dian.md)
-* [喜月（绿地缤纷广场店）](others/xi-yue-lv-di-bin-fen-guang-chang-dian.md)
 * [福茂瀧·牛蛙火锅烧鸡公（孙桥店）](others/fu-mao-long-niu-wa-huo-guo-shao-ji-gong-sun-qiao-dian.md)
 * [重庆鸡公煲巫山烤全鱼（孙桥店）](others/zhong-qing-ji-gong-bao-wu-shan-kao-quan-yu-sun-qiao-dian.md)
 * [永昌盛饭堂（自选餐厅）（孙桥路店）](others/yong-chang-sheng-fan-tang-zi-xuan-can-ting-sun-qiao-lu-dian.md)
