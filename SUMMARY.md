@@ -19,6 +19,7 @@
 * [丰茂烤串（淮海路店）](two-star/feng-mao-kao-chuan-huai-hai-lu-dian.md)
 * [東盛炭烤自助料理（长泰广场店）](two-star/dong-sheng-tan-kao-zi-zhu-liao-li-chang-tai-guang-chang-dian.md)
 * [一绪に寿喜烧（长泰广场店）](two-star/ni.md)
+* [香香川菜（紫薇路店）](two-star/xiang-xiang-chuan-cai-zi-wei-lu-dian.md)
 
 ## ★ <a href="#one-star" id="one-star"></a>
 
@@ -29,7 +30,6 @@
 * [眉州东坡小酒馆（凯德晶萃店）](one-star/mei-zhou-dong-po-xiao-jiu-guan-kai-de-jing-cui-dian.md)
 * [喜月（绿地缤纷广场店）](one-star/xi-yue-lv-di-bin-fen-guang-chang-dian.md)
 * [香港池仔记肠粉王（博多新记襄阳南路店）](one-star/xiang-gang-chi-zi-ji-chang-fen-wang-bo-duo-xin-ji-xiang-yang-nan-lu-dian.md)
-* [香香川菜（紫薇路店）](one-star/xiang-xiang-chuan-cai-zi-wei-lu-dian.md)
 
 ## 其他 <a href="#others" id="others"></a>
 
