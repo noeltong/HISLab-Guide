@@ -14,7 +14,6 @@
 * [晶涮羊老北京涮羊肉](two-star/jing-shuan-yang-lao-bei-jing-shuan-yang-rou.md)
 * [宴羊楼（纳贤店）](two-star/yan-yang-lou-na-xian-dian.md)
 * [纪录片《人生一串》体验店（三钢里店）](two-star/ji-lu-pian-ren-sheng-yi-chuan-ti-yan-dian-san-gang-li-dian.md)
-* [破店小酒馆（淮海巴黎春天店）](two-star/po-dian-xiao-jiu-guan-huai-hai-ba-li-chun-tian-dian.md)
 * [七姑娘大刀凉皮（科苑路店）](two-star/qi-gu-niang-da-dao-liang-pi-ke-yuan-lu-dian.md)
 * [蔡记烤猪蹄](two-star/cai-ji-kao-zhu-ti.md)
 * [丰茂烤串（淮海路店）](two-star/feng-mao-kao-chuan-huai-hai-lu-dian.md)
@@ -23,11 +22,14 @@
 
 ## ★ <a href="#one-star" id="one-star"></a>
 
+* [破店小酒馆（淮海巴黎春天店）](one-star/po-dian-xiao-jiu-guan-huai-hai-ba-li-chun-tian-dian.md)
 * [泰煌鸡 上海白斩鸡·鸡汤面（孙建路店）](one-star/tai-huang-ji-shang-hai-bai-zhan-ji-ji-tang-mian-sun-jian-lu-dian.md)
 * [东北筋饼骨头王（科苑路店）](one-star/dong-bei-jin-bing-gu-tou-wang-ke-yuan-lu-dian.md)
 * [哇蛙牛功夫面渝都料理（龙阳广场店）](one-star/wa-wa-niu-gong-fu-mian-yu-du-liao-li-long-yang-guang-chang-dian.md)
 * [眉州东坡小酒馆（凯德晶萃店）](one-star/mei-zhou-dong-po-xiao-jiu-guan-kai-de-jing-cui-dian.md)
 * [喜月（绿地缤纷广场店）](one-star/xi-yue-lv-di-bin-fen-guang-chang-dian.md)
+* [香港池仔记肠粉王（博多新记襄阳南路店）](one-star/xiang-gang-chi-zi-ji-chang-fen-wang-bo-duo-xin-ji-xiang-yang-nan-lu-dian.md)
+* [香香川菜（紫薇路店）](one-star/xiang-xiang-chuan-cai-zi-wei-lu-dian.md)
 
 ## 其他 <a href="#others" id="others"></a>
 
