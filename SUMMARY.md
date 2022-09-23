@@ -8,6 +8,7 @@
 * [The Habit Burger Grill 哈比特汉堡（复兴soho店）](three-star/the-habit-burger-grill-ha-bi-te-han-bao-fu-xing-soho-dian.md)
 * [先启半步颠小酒馆（长泰广场店）](three-star/xian-qi-ban-bu-dian-xiao-jiu-guan-chang-tai-guang-chang-dian.md)
 * [楠火锅（龙阳广场店）](three-star/nan-huo-guo-long-yang-guang-chang-dian.md)
+* [伊祥·敦煌楼（人民广场店）](three-star/yi-xiang-dun-huang-lou-ren-min-guang-chang-dian.md)
 
 ## ★★ <a href="#two-star" id="two-star"></a>
 
