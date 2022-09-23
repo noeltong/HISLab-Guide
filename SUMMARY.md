@@ -21,6 +21,7 @@
 * [東盛炭烤自助料理（长泰广场店）](two-star/dong-sheng-tan-kao-zi-zhu-liao-li-chang-tai-guang-chang-dian.md)
 * [一绪に寿喜烧（长泰广场店）](two-star/ni.md)
 * [香香川菜（紫薇路店）](two-star/xiang-xiang-chuan-cai-zi-wei-lu-dian.md)
+* [费大厨·辣椒炒肉（长泰广场店）](two-star/fei-da-chu-la-jiao-chao-rou-chang-tai-guang-chang-dian.md)
 
 ## ★ <a href="#one-star" id="one-star"></a>
 
