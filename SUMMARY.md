@@ -26,7 +26,6 @@
 * [香香川菜（紫薇路店）](two-star/xiang-xiang-chuan-cai-zi-wei-lu-dian.md)
 * [费大厨·辣椒炒肉（长泰广场店）](two-star/fei-da-chu-la-jiao-chao-rou-chang-tai-guang-chang-dian.md)
 * [星伦多海鲜自助餐厅（复地活力城店）](two-star/xing-lun-duo-hai-xian-zi-zhu-can-ting-fu-di-huo-li-cheng-dian.md)
-* [眉州东坡（上海中心店）](two-star/mei-zhou-dong-po-shang-hai-zhong-xin-dian.md)
 
 ## ★ <a href="#one-star" id="one-star"></a>
 
@@ -42,6 +41,7 @@
 
 ## 其他 <a href="#others" id="others"></a>
 
+* [眉州东坡（上海中心店）](others/mei-zhou-dong-po-shang-hai-zhong-xin-dian.md)
 * [绿茶餐厅（浦东汇智店）](others/lv-cha-can-ting-pu-dong-hui-zhi-dian.md)
 * [小螺莉螺蛳粉（八佰伴店）](others/xiao-luo-li-luo-si-fen-ba-bai-ban-dian.md)
 * [合興發茶冰室（龙阳路店）](others/he-xing-fa-cha-bing-shi-long-yang-lu-dian.md)
